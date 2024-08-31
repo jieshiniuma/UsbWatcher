@@ -1,0 +1,7 @@
+D:\code\csharp\UsbWatcher\UsbWatcher\bin\Debug\UsbWatcher.exe.config
+D:\code\csharp\UsbWatcher\UsbWatcher\bin\Debug\UsbWatcher.exe
+D:\code\csharp\UsbWatcher\UsbWatcher\bin\Debug\UsbWatcher.pdb
+D:\code\csharp\UsbWatcher\UsbWatcher\obj\Debug\UsbWatcher.csproj.AssemblyReference.cache
+D:\code\csharp\UsbWatcher\UsbWatcher\obj\Debug\UsbWatcher.csproj.CoreCompileInputs.cache
+D:\code\csharp\UsbWatcher\UsbWatcher\obj\Debug\UsbWatcher.exe
+D:\code\csharp\UsbWatcher\UsbWatcher\obj\Debug\UsbWatcher.pdb
